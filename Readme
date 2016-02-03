@@ -1,0 +1,3 @@
+This is the skeleton of Keyword Driven framework
+Basic structure needed for keyword driven is shown
+For each test steps there would be result column and status for each test step either pass or fail

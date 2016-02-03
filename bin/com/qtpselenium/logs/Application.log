@@ -1,0 +1,86 @@
+03/02/2016 07:28:03 devpinoyLogger Start
+03/02/2016 07:28:03 devpinoyLogger Properties Loaded. Testing Started
+03/02/2016 07:28:03 devpinoyLogger Initialize suite xlsx
+03/02/2016 07:28:04 devpinoyLogger A Suite--Y
+03/02/2016 07:28:04 devpinoyLogger ***Exceuting***A Suite
+03/02/2016 07:28:04 devpinoyLogger TestCase_A1--Y
+03/02/2016 07:28:04 devpinoyLogger Exceution of test case   TestCase_A1
+03/02/2016 07:28:04 devpinoyLogger Iteration number1
+03/02/2016 07:28:04 devpinoyLogger openBrowser
+03/02/2016 07:28:04 devpinoyLogger Opening the browser
+03/02/2016 07:28:04 devpinoyLogger Pass
+03/02/2016 07:28:04 devpinoyLogger navigate
+03/02/2016 07:28:04 devpinoyLogger Navigating to URL
+03/02/2016 07:28:04 devpinoyLogger Pass
+03/02/2016 07:28:04 devpinoyLogger verifyTitle
+03/02/2016 07:28:04 devpinoyLogger Verifying title
+03/02/2016 07:28:04 devpinoyLogger Pass
+03/02/2016 07:28:04 devpinoyLogger clickLink
+03/02/2016 07:28:04 devpinoyLogger Clicking on link 
+03/02/2016 07:28:04 devpinoyLogger Pass
+03/02/2016 07:28:04 devpinoyLogger writeInInput
+03/02/2016 07:28:04 devpinoyLogger Writing in text box
+03/02/2016 07:28:04 devpinoyLogger Pass
+03/02/2016 07:28:04 devpinoyLogger writeInInput
+03/02/2016 07:28:04 devpinoyLogger Writing in text box
+03/02/2016 07:28:04 devpinoyLogger Pass
+03/02/2016 07:28:04 devpinoyLogger clickButton
+03/02/2016 07:28:04 devpinoyLogger Clicking on Button
+03/02/2016 07:28:04 devpinoyLogger Pass
+03/02/2016 07:28:04 devpinoyLogger verifyLinkText
+03/02/2016 07:28:04 devpinoyLogger Pass
+03/02/2016 07:28:05 devpinoyLogger Iteration number2
+03/02/2016 07:28:05 devpinoyLogger Iteration number3
+03/02/2016 07:28:05 devpinoyLogger Iteration number4
+03/02/2016 07:28:05 devpinoyLogger openBrowser
+03/02/2016 07:28:05 devpinoyLogger Opening the browser
+03/02/2016 07:28:05 devpinoyLogger Pass
+03/02/2016 07:28:05 devpinoyLogger navigate
+03/02/2016 07:28:05 devpinoyLogger Navigating to URL
+03/02/2016 07:28:05 devpinoyLogger Pass
+03/02/2016 07:28:05 devpinoyLogger verifyTitle
+03/02/2016 07:28:05 devpinoyLogger Verifying title
+03/02/2016 07:28:05 devpinoyLogger Pass
+03/02/2016 07:28:05 devpinoyLogger clickLink
+03/02/2016 07:28:05 devpinoyLogger Clicking on link 
+03/02/2016 07:28:05 devpinoyLogger Pass
+03/02/2016 07:28:05 devpinoyLogger writeInInput
+03/02/2016 07:28:05 devpinoyLogger Writing in text box
+03/02/2016 07:28:05 devpinoyLogger Pass
+03/02/2016 07:28:05 devpinoyLogger writeInInput
+03/02/2016 07:28:05 devpinoyLogger Writing in text box
+03/02/2016 07:28:05 devpinoyLogger Pass
+03/02/2016 07:28:05 devpinoyLogger clickButton
+03/02/2016 07:28:05 devpinoyLogger Clicking on Button
+03/02/2016 07:28:05 devpinoyLogger Pass
+03/02/2016 07:28:05 devpinoyLogger verifyLinkText
+03/02/2016 07:28:05 devpinoyLogger Pass
+03/02/2016 07:28:06 devpinoyLogger TestCase_A2--Y
+03/02/2016 07:28:06 devpinoyLogger Exceution of test case   TestCase_A2
+03/02/2016 07:28:06 devpinoyLogger Iteration number1
+03/02/2016 07:28:06 devpinoyLogger openBrowser
+03/02/2016 07:28:06 devpinoyLogger Opening the browser
+03/02/2016 07:28:06 devpinoyLogger Pass
+03/02/2016 07:28:06 devpinoyLogger navigate
+03/02/2016 07:28:06 devpinoyLogger Navigating to URL
+03/02/2016 07:28:06 devpinoyLogger Pass
+03/02/2016 07:28:06 devpinoyLogger verifyTitle
+03/02/2016 07:28:06 devpinoyLogger Verifying title
+03/02/2016 07:28:06 devpinoyLogger Pass
+03/02/2016 07:28:06 devpinoyLogger clickLink
+03/02/2016 07:28:06 devpinoyLogger Clicking on link 
+03/02/2016 07:28:06 devpinoyLogger Pass
+03/02/2016 07:28:06 devpinoyLogger verifyLinkText
+03/02/2016 07:28:06 devpinoyLogger Pass
+03/02/2016 07:28:06 devpinoyLogger verifyText
+03/02/2016 07:28:06 devpinoyLogger Verifying the text
+03/02/2016 07:28:06 devpinoyLogger Pass
+03/02/2016 07:28:06 devpinoyLogger verifyLinkText
+03/02/2016 07:28:06 devpinoyLogger Pass
+03/02/2016 07:28:06 devpinoyLogger verifyText
+03/02/2016 07:28:06 devpinoyLogger Verifying the text
+03/02/2016 07:28:06 devpinoyLogger Pass
+03/02/2016 07:28:06 devpinoyLogger Iteration number2
+03/02/2016 07:28:06 devpinoyLogger TestCase_A3--N
+03/02/2016 07:28:06 devpinoyLogger B Suite--N
+03/02/2016 07:28:06 devpinoyLogger C Suite--N

@@ -1,0 +1,85 @@
+21/10/2015 00:43:57 devpinoyLogger Start
+21/10/2015 00:43:57 devpinoyLogger Initialize suite xlsx
+21/10/2015 00:43:57 devpinoyLogger A Suite--Y
+21/10/2015 00:43:57 devpinoyLogger ***Exceuting***A Suite
+21/10/2015 00:43:58 devpinoyLogger TestCase_A1--Y
+21/10/2015 00:43:58 devpinoyLogger Exceution of test case   TestCase_A1
+21/10/2015 00:43:58 devpinoyLogger Iteration number1
+21/10/2015 00:43:58 devpinoyLogger openBrowser
+21/10/2015 00:43:58 devpinoyLogger Opening the browser
+21/10/2015 00:43:58 devpinoyLogger Pass
+21/10/2015 00:43:58 devpinoyLogger navigate
+21/10/2015 00:43:58 devpinoyLogger Navigating to URL
+21/10/2015 00:43:58 devpinoyLogger Pass
+21/10/2015 00:43:58 devpinoyLogger verifyTitle
+21/10/2015 00:43:58 devpinoyLogger Verifying title
+21/10/2015 00:43:58 devpinoyLogger Pass
+21/10/2015 00:43:58 devpinoyLogger clickLink
+21/10/2015 00:43:58 devpinoyLogger Clicking on link 
+21/10/2015 00:43:58 devpinoyLogger Pass
+21/10/2015 00:43:58 devpinoyLogger writeInInput
+21/10/2015 00:43:58 devpinoyLogger Writing in text box
+21/10/2015 00:43:58 devpinoyLogger Pass
+21/10/2015 00:43:58 devpinoyLogger writeInInput
+21/10/2015 00:43:58 devpinoyLogger Writing in text box
+21/10/2015 00:43:58 devpinoyLogger Pass
+21/10/2015 00:43:58 devpinoyLogger clickButton
+21/10/2015 00:43:58 devpinoyLogger Clicking on Button
+21/10/2015 00:43:58 devpinoyLogger Pass
+21/10/2015 00:43:58 devpinoyLogger verifyLinkText
+21/10/2015 00:43:58 devpinoyLogger Pass
+21/10/2015 00:43:58 devpinoyLogger Iteration number2
+21/10/2015 00:43:59 devpinoyLogger Iteration number3
+21/10/2015 00:43:59 devpinoyLogger Iteration number4
+21/10/2015 00:43:59 devpinoyLogger openBrowser
+21/10/2015 00:43:59 devpinoyLogger Opening the browser
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger navigate
+21/10/2015 00:43:59 devpinoyLogger Navigating to URL
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger verifyTitle
+21/10/2015 00:43:59 devpinoyLogger Verifying title
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger clickLink
+21/10/2015 00:43:59 devpinoyLogger Clicking on link 
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger writeInInput
+21/10/2015 00:43:59 devpinoyLogger Writing in text box
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger writeInInput
+21/10/2015 00:43:59 devpinoyLogger Writing in text box
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger clickButton
+21/10/2015 00:43:59 devpinoyLogger Clicking on Button
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger verifyLinkText
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger TestCase_A2--Y
+21/10/2015 00:43:59 devpinoyLogger Exceution of test case   TestCase_A2
+21/10/2015 00:43:59 devpinoyLogger Iteration number1
+21/10/2015 00:43:59 devpinoyLogger openBrowser
+21/10/2015 00:43:59 devpinoyLogger Opening the browser
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger navigate
+21/10/2015 00:43:59 devpinoyLogger Navigating to URL
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger verifyTitle
+21/10/2015 00:43:59 devpinoyLogger Verifying title
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger clickLink
+21/10/2015 00:43:59 devpinoyLogger Clicking on link 
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger verifyLinkText
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger verifyText
+21/10/2015 00:43:59 devpinoyLogger Verifying the text
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger verifyLinkText
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger verifyText
+21/10/2015 00:43:59 devpinoyLogger Verifying the text
+21/10/2015 00:43:59 devpinoyLogger Pass
+21/10/2015 00:43:59 devpinoyLogger Iteration number2
+21/10/2015 00:44:00 devpinoyLogger TestCase_A3--N
+21/10/2015 00:44:00 devpinoyLogger B Suite--N
+21/10/2015 00:44:00 devpinoyLogger C Suite--N
